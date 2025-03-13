@@ -1016,7 +1016,7 @@ body {
     .hero {
         flex-direction: column;
         text-align: center;
-        padding: 8rem 4% 4rem;
+        padding: 5rem 4% 2rem;
     }
     
     .hero h1 {
